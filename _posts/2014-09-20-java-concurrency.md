@@ -28,6 +28,12 @@ comments: true
 	}
 ```
 
+```php
+	function helloworld() {
+		print 'hello,world'
+	}
+```
+
 另一种是传递给 Thread 构造函数一个 Runnable 对象。
 
 ```java
