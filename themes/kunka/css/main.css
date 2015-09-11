@@ -650,7 +650,7 @@ a         { color: #91736b; text-decoration: none; }
     color: #232323;
     font-size: 14px;
     line-height: 24px;
-    font-family: 'Spirax', cursive;
+    font-family: Arial, 微软雅黑, 宋体;
     text-transform: uppercase;
 }
 .aside-contact .det {
@@ -680,7 +680,7 @@ a         { color: #91736b; text-decoration: none; }
     width: 150px;
     padding-left: 10px;
     float: left;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 18px;
 }
 .aside-contact .det-text p {
@@ -709,7 +709,7 @@ a         { color: #91736b; text-decoration: none; }
     padding: 10px 0;
     margin-bottom: 10px;
     font-size: 14px;
-    font-family: Arial;
+    font-family: Arial, 微软雅黑, 宋体;
     list-style-type: disc;
     line-height: 24px;
     padding-left: 18px;
