@@ -8,6 +8,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: Arial,微软雅黑,\5b8b\4f53;
 }
 
 html, body { height: 100%; }
@@ -15,11 +16,12 @@ body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset,
 ul, ol {
     list-style-type: none;
 }
+
 body {
     background: #92b3a2 url(../images/bg.jpg) repeat 0 0;
     font-size: 14px;
     line-height: 1.5;
-    font-family: Georgia, Hiragino Sans GB,\5b8b\4f53;
+    font-family: Arial,微软雅黑,\5b8b\4f53;
     text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.2);
 }
 
@@ -627,7 +629,7 @@ a         { color: #91736b; text-decoration: none; }
 
 .aside {
     padding: 20px 20px 40px 20px;
-    margin-top: 26px;
+    margin-top: 9px;
     float: left;
     background: #f2eeec url(../images/aside-bg.jpg) no-repeat 0px 0px;
     width: 240px;
@@ -648,7 +650,7 @@ a         { color: #91736b; text-decoration: none; }
     color: #232323;
     font-size: 14px;
     line-height: 24px;
-    font-family: 'Spirax', cursive;
+    font-family: Arial, 微软雅黑, 宋体;
     text-transform: uppercase;
 }
 .aside-contact .det {
@@ -678,7 +680,7 @@ a         { color: #91736b; text-decoration: none; }
     width: 150px;
     padding-left: 10px;
     float: left;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 18px;
 }
 .aside-contact .det-text p {
@@ -700,14 +702,14 @@ a         { color: #91736b; text-decoration: none; }
     padding-bottom: 3px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: 0 1px 1px rgba(255, 255, 255, 0.2);
-    font-family: 'Spirax', cursive;
+    font-family: Arial, 微软雅黑, 宋体;
     text-transform: uppercase;
 }
 .aside-item .list {
     padding: 10px 0;
     margin-bottom: 10px;
     font-size: 14px;
-    font-family: Arial;
+    font-family: Arial, 微软雅黑, 宋体;
     list-style-type: disc;
     line-height: 24px;
     padding-left: 18px;
