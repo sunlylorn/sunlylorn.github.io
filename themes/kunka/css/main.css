@@ -15,6 +15,9 @@ body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset,
 ul, ol {
     list-style-type: none;
 }
+code {
+    font-family: Arial,微软雅黑,\5b8b\4f53;
+}
 body {
     background: #92b3a2 url(../images/bg.jpg) repeat 0 0;
     font-size: 14px;
