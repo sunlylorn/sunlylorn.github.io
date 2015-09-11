@@ -1,16 +1,16 @@
 {% for post in paginator.posts %}
     <div class="article">
         <h3 class="title"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-        <article class="rexp">
-            <p>{{ post.excerpt }}</p>
-        </article>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="more"><i class="icon-link"></i></a>
         <div class="info">
             <span class="info-title">发表时间: </span>
             <span class="info-date">{{ post.date | date_to_string }}</span>
              <span class="info-title">分类: </span>
             <span class="info-link"><a href="{{ site.url }}/navigations/categories.html#{{ post.category }}-ref" >{{ post.category }}</a></span>
         </div>
+        <article class="rexp">
+            <p>{{ post.excerpt }}</p>
+        </article>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="more"><i class="icon-link"></i></a>
     </div>
 {% endfor %}
 {% if paginator.total_pages > 1 %}
