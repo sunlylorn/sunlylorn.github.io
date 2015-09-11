@@ -115,13 +115,13 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
-baseurl: /StrayBirds
+username: sunlylorn
+baseurl: /sunlylorn.github.io
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 锅巴巴
+description: 黑发不知勤学早，白首方悔读书迟
 theme: kunka
 disqusname: minixalpha
 
