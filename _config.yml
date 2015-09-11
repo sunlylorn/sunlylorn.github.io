@@ -116,14 +116,14 @@ disqus:
 #################################### global configure #######################################
 
 username: sunlylorn
-baseurl: /sunlylorn.github.io
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 锅巴巴
 description: 黑发不知勤学早，白首方悔读书迟
 theme: kunka
-disqusname: minixalpha
+disqusname: sunlylorn
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
