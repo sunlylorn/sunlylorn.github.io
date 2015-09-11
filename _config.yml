@@ -65,13 +65,28 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
-    email: xkzbeta@outlook.comment
-    imageLink: https://avatars.githubusercontent.com/minixalpha
-    simpleIntro: 我是 minixalpha
+    name: sunlylorn
+    email: sunlylorna@qq.com
+    imageLink: https://avatars1.githubusercontent.com/u/2216659
+    simpleIntro: 我是 锅巴巴
     detailIntro:
-      <p>Jekyll 是一个简洁的、特别针对博客平台的 静态网站 生成器。它使用一个模板目录作为网站布局的基础框架，并在其上运行 Textile 、 Markdown 或 Liquid 标记语言的转换器，最终生成一个完整的静态Web站点，可以被放置在Apache或者你喜欢的其他任何Web服务器上。它同时也是 GitHub Pages 、一个由 GitHub 提供的用于托管项目主页或博客的服务，在后台所运行的引擎。</p>
-      <p>很早之前，使用过 wordpress 来写博客。但是还要处理很多的底层问题。而使用 Jekyll 来写博客，可以很简单，写 Markdown 就好。然而，Jekyll 还很年轻，没有很多主题的支持。这里的主题，就是为 Jekyll 而写的。希望你能喜欢。</p>
+      <p>一直致力于自然语言处理，机器学习，数据挖掘领域的学习和实践！</p>
+      <p><b><i>教育背景</i></b></p>
+      <p>哈尔滨工业大学 计算机系（本科）</p>
+      <p>哈尔滨工业大学 自然语言处理实验室（硕士）</p>
+      <p><b><i>工作经历</i></b></p>
+      <p>2008.7 ~ 2010.8 腾讯</p>
+      <p>2010.8 ~ 至今 奇虎360 好搜NLP技术部</p>
+      <p><b><i>专利</i></b></p>
+      <p>第一发明人。“一种基于问答知识库的问答对质量评价方法”</p>
+      <p>第一发明人。“一种基于用户行为的相似短文本检测算法”</p>
+      <p>第一发明人。“一种基于最长公共子串的影视名挖掘算法”</p>
+      <p><b><i>著作</i></b></p>
+      <p>Thread Segmentation based Answer Detection in Chinese Online Forums. Acta Automatica Sinica, 2013.</p>
+      <p>Modeling Semantic Relevance for Question-Answer Pairs in Web Social Communities. ACL, 2010.</p>
+      <p>A Study of Features on Primary Question Detection in Chinese Online Forums. FSKD2010.</p>
+      <p>A Clustering based Fast Detection Algorithm for Large Scale Duplicate Emails. ICMLC-IWWIP, 2010.</p>
+      <p>Extracting Chinese Question-Answer Pairs from Online Forums. IEEE SMC, 2009
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
@@ -110,7 +125,7 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: sunlylorn
 
 
 #################################### global configure #######################################
