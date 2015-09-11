@@ -104,7 +104,7 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
+  config: true
   id: sunlylorn
 
 
