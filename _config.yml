@@ -111,7 +111,7 @@ disqus:
 #################################### global configure #######################################
 
 username: sunlylorn
-baseurl: /blog
+baseurl: /sunlylorn.github.io
 markdown: redcarpet
 safe: false
 highlighter: pygments
